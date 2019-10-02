@@ -5,7 +5,7 @@ Utilized Components:
 
 * Arduino Uno R3
 * Various jumpers
-* Vatious resistors
+* Various resistors
 * 3 pushbuttoms
 * 1 Display LCD 16x2
 * 1 Servo Motor MG996R
