@@ -1,5 +1,5 @@
 # ComedouroAutomatico
-Final project of the Embedded System class. The project consists in a automatic pet feeder, utilizing Arduino. 
+Final project of my Embedded System class. The project consists in a automatic pet feeder, utilizing Arduino. 
 
 Utilized Components:
 
